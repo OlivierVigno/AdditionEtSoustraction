@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdditionEtSoustraction</string>
+    <string name="addition">Addition</string>
+    <string name="soustraction">Soustraction</string>
+    <string name="retourner">Retourner</string>
+    <string name="lblValeur1">Entrez la première valeur:</string>
+    <string name="lblValeur2">Entrez la deuxième valeur:</string>
+</resources>
